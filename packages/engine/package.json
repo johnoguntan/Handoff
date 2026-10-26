@@ -1,0 +1,12 @@
+{
+  "name": "@handoff/engine",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Pure TypeScript leave-time engine. No I/O, no clock reads.",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "test": "jest",
+    "typecheck": "tsc -p tsconfig.json"
+  }
+}
